@@ -20,7 +20,7 @@ public class SpringBootDataJpaApplication {
 	
 	User user1=new User(1, "Abhishek", "Delhi", "active");
 	
-	//User user=userRepository.save(user1);
+	////User user=userRepository.save(user1);
 	
 	//System.out.println(user);
 	
